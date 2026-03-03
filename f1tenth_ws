@@ -1,4 +1,0 @@
-git clone https://github.com/f1tenth/f1tenth_gym_ros
-# at f1tenth_ws
-cd f1tenth_gym_ros/
-docker build -t f1tenth_gym_ros -f Dockerfile .
